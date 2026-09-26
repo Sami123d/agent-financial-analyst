@@ -321,7 +321,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 </div>
 
 ## Attribution
-This project is based on [Ismail-2001/agent-financial-analyst](https://github.com/Ismail-2001/agent-financial-analyst), licensed under the MIT License.
-Base template by Daniel Lopez Orta; developed further by Ismail Sajid (Ismail-2001).
-Modifications in this repository are by Sami123d (saminazirqureshi1@gmail.com).
-The original LICENSE file and its copyright notice are preserved unchanged below.
+This repository is an unmodified copy of [Ismail-2001/agent-financial-analyst](https://github.com/Ismail-2001/agent-financial-analyst), imported on 2026-09-27. No code changes have been made yet.
+The code is licensed under the MIT License. The LICENSE file and its copyright notice ("Copyright (c) 2026 Daniel López Orta") are preserved unchanged.
+The upstream repository's commit history lists Daniel Lopez and Ismail Sajid as authors. That history was not carried over into this import; see the upstream repository for it.
+Imported and maintained by [Sami123d](https://github.com/Sami123d). Any future changes will be listed under "Changes in this repository" below.
