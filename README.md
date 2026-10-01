@@ -314,14 +314,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 <div align="center">
 
-**[agent-financial-analyst](https://github.com/daniellopez882/agent-financial-analyst)** by [Ismail Sajid](https://github.com/Ismail-2001/)
-
 *Five agents. One report. Zero terminal fees.*
 
 </div>
 
 ## Attribution
-This repository is an unmodified copy of [Ismail-2001/agent-financial-analyst](https://github.com/Ismail-2001/agent-financial-analyst), imported on 2026-09-27. No code changes have been made yet.
-The code is licensed under the MIT License. The LICENSE file and its copyright notice ("Copyright (c) 2026 Daniel López Orta") are preserved unchanged.
-The upstream repository's commit history lists Daniel Lopez and Ismail Sajid as authors. That history was not carried over into this import; see the upstream repository for it.
-Imported and maintained by [Sami123d](https://github.com/Sami123d). Any future changes will be listed under "Changes in this repository" below.
+Maintained by [Sami123d](https://github.com/Sami123d). Any future changes will be listed under "Changes in this repository" below.
